@@ -1,0 +1,32 @@
+#button_html {
+    background-color: rgb(7, 161, 161);
+    text-align: center;
+    color: white;
+    font-size: medium;
+    padding: 10px;
+    border: 2px;
+    border-radius: 10px;
+}
+
+#button_css {
+    background-color:rgb(238, 0, 255);
+    text-align: center;
+    font-size: medium;
+    color: white;
+    padding: 10px;
+    border: 2px;
+    border-radius: 10px;
+
+
+}
+
+#button_js{
+    background-color: rgb(241, 226, 8);
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-size: medium;
+    border: 2px;
+    border-radius: 10px;
+
+}
